@@ -14,3 +14,5 @@ fearNotLetter("stvwx") should return the string u.
 fearNotLetter("bcdf") should return the string e.
 
 fearNotLetter("abcdefghijklmnopqrstuvwxyz") should return undefined.
+
+Source: Intermediate Algorithm Scripting (freecodecamp.com)
